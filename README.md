@@ -1,2 +1,2 @@
 - [Buenos Aires museums you must see](https://www.timeout.com/buenos-aires/best-museums)
-- [Corrientes street: the best theater shows on the bill](https://www.timeout.com/buenos-aires/corrientes-street-theater-productions)
+- [Corrientes street: the best theater shows on the bill](https://www.timeout.com/buenos-aires/corrientes-street-theater-productions) ([in spanish](https://www.timeout.com/es/buenos-aires/que-hacer/calle-corrientes-las-mejores-obras-de-teatro-cartelera))

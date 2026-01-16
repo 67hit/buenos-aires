@@ -8,5 +8,10 @@
 - [Astor, Piazzolla eterno - Teatro Colón](https://teatrocolon.org.ar/produccion/astor-piazzolla-eterno/)
 
 ## Good to know
+
+### Taxi
 - [Taxi in Buenos Aires: Everything you need to know in 2026](https://secretsofbuenosaires.com/taxi-in-buenos-aires/)
+- [Taxi & Ride Apps Guide: Options, Risks & Safety Tips - Buenos Aires Jorge Newbery Airport (AEP)](https://aeroparquebuenosaires.ar/en/taxis)
+
+### Money
 - [Money in Argentina: Should You Use Cash, Card or Blue Dollar?](https://worldlyadventurer.com/money-argentina/)
